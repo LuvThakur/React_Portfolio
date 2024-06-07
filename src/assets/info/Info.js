@@ -26,7 +26,7 @@ export const info = {
   ],
   socials: [
     {
-      link: 'https://drive.google.com/file/d/1jTZ2xx7dqaR0Y-U7gkOT2W1Yxf94coru/view?usp=drive_link', // this should be https://yourname.com/resume.pdf once you've deployed
+      link: 'https://drive.google.com/file/d/1CgpeBjfsArIHH2IrvAcQTuO46drDTxs6/view?usp=sharing', // this should be https://yourname.com/resume.pdf once you've deployed
       icon: 'fa fa-file',
       label: 'resume',
     },
